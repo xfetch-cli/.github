@@ -3,7 +3,7 @@
 The X and xfetch names, the X logo and the xfetch banner are trademarks or
 brand assets of xscriptor.
 
-The MIT license used by the xfetch-cli repositories covers copyright in the
+The licenses used by the xfetch-cli repositories cover copyright in the
 code and documentation. It does not grant trademark rights and does not
 authorize using the names or logos in a way that suggests endorsement,
 affiliation or official status.

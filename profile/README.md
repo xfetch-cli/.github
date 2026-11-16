@@ -73,4 +73,4 @@ find it.
 
 ## License
 
-MIT. See [LICENSE](https://github.com/xfetch-cli/xfetch/blob/main/LICENSE).
+GPL-3.0-only. See [LICENSE](https://github.com/xfetch-cli/xfetch/blob/main/LICENSE).
